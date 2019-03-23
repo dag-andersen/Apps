@@ -1,4 +1,4 @@
-Privacy Policy for Crates!
+# Privacy Policy for Crates!
 
 Crates! is a game created using only Apples Libraries and does not use any third party services.
 The game runs only locally on your device and we do not collect any data about you.
